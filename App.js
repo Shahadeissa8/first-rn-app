@@ -61,14 +61,17 @@ const styles = StyleSheet.create({
     fontSize: 20,
   },
   textCenter: {
-    justifyContent: "center",
+    alignItems: "center",
   },
   bigTitle: {
     fontWeight: "bold",
-    fontSize: 10,
+    fontSize: 30,
+    textAlign: "center",
   },
   country: {
     color: "grey",
+    fontSize: 20,
+    textAlign: "center",
   },
   line: {
     height: 1,
